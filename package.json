@@ -1,6 +1,6 @@
 {
   "name": "argument-vector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Split a string of command line options into and argv(argument vector) array",
   "main": "index.js",
   "dependencies": {
